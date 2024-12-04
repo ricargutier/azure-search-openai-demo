@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "Lucho GPT",
+    "headerTitle": "Lucho GPT",
     "chat": "Chat",
     "qa": "Haz una pregunta",
     "login": "Iniciar sesión",
@@ -34,13 +34,13 @@
     },
     "developerSettings": "Configuración del desarrollador",
 
-    "chatEmptyStateTitle": "Chatea con tus datos",
+    "chatEmptyStateTitle": "HIPERAMONEMIA",
     "chatEmptyStateSubtitle": "Pregunta cualquier cosa o prueba un ejemplo",
     "defaultExamples": {
-        "1": "¿Qué está incluido en mi plan Northwind Health Plus que no está en el estándar?",
-        "2": "¿Qué sucede en una revisión de rendimiento?",
-        "3": "¿Qué hace un Gerente de producto?",
-        "placeholder": "Escribe una nueva pregunta (por ejemplo, ¿mi plan cubre exámenes anuales de la vista?)"
+        "1": "¿Qué es la hiperamonemia?",
+        "2": "¿Que sintomas presenta la hiperamonemia?",
+        "3": "¿Que medicamentos puedo usar y como debo aplicarlos?",
+        "placeholder": "Escribe una nueva pregunta (por ejemplo, ¿Que se considera hiperamonemia?)"
     },
     "askTitle": "Pregunta a tus datos",
     "gpt4vExamples": {
